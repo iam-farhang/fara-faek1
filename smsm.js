@@ -2936,17 +2936,17 @@ smsm120.on("ready", () => {
 //////////////// token lera dabne/////////
 
 smsm.login("");
-smsm2.login("OTAxNjEyNTExMDY4MDM3MTUw.YXSeKQ.weZEUtrstvS7qrDsCT9nHJKoYNI");
-smsm3.login("OTAxNjExOTQwNjM0MzIwOTY2.YXSePA.3vsS9zK1-WyXq26rgf0WZddlVh8");
-smsm4.login("OTAxNjA5NTIzMzI2OTAyMjgy.YXSeRw.pA5umZvpA3Z8Jp_0gRv51E4Vq3g");
-smsm5.login("OTAxNjA4MjU1NTA2MjM5NTU4.YXSeUw.tBBDDwuITCqhzwtZEpQriHm6bqU");
-smsm6.login("OTAyMjA1MDU2MTc3Mjk5NDY2.YXbFwA.bVDxzsIxX3hRBagwy63_vcHF1Xw");
-smsm7.login("OTAyMjAzMjUzMDU4NTgwNTIx.YXbF9A.iXNR5hrCre3uyBrCV3jSLKXy7lY");
-smsm8.login("OTAyMTM4OTk0MDYwNTY2NTM4.YXbGCA.s5EIeMKfre7r4trlKu6kmQd6xiQ");
-smsm9.login("OTAxOTQ5NTMxNDA5NzY0MzU0.YXbGIg.ZkQcZBB7FIvOiXad6nb9ejMNOaI");
-smsm10.login("OTAyMTM5NDg2NjA2MDY1NzU0.YXbF_Q.cY98XSqxxNMVQm-9vAPQUnJisPU");
-smsm11.login("OTAyNTE5Njg2NDYwMjM5OTEz.YXf2KA.7aXe1xj7YWn6tqsbE2XqZwFlK4I");
-smsm12.login("OTAyMjA2NjQ2NjYxNTc0Njk2.YXf2Mg.hNfsdPIIgEH9jwgDTliqKu3ceGs");
+smsm2.login("OTE1NDU1NTAzMjMwOTYzNzcy.Yab8QA.nslVUc4bjXb67PACTVHzgvsu6Hc");
+smsm3.login("");
+smsm4.login("");
+smsm5.login("");
+smsm6.login("");
+smsm7.login("");
+smsm8.login("");
+smsm9.login("");
+smsm10.login("");
+smsm11.login("");
+smsm12.login("");
 smsm13.login("");
 smsm14.login("");
 smsm15.login("");
